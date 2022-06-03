@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! My name is Aleksander Slominski
+
+I am a Research Staff Member in the Serverless Group in Cloud Platform, Cognitive Systems And Services department at the IBM T.J. Watson Research Center. 
+
+You cna find more about me at https://aslom.net/
 
 <!--
 **aslom/aslom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
