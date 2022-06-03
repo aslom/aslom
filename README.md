@@ -2,7 +2,7 @@
 
 I am a Research Staff Member in the Serverless Group in Cloud Platform, Cognitive Systems And Services department at the IBM T.J. Watson Research Center. 
 
-I work on [Knative Eventing](https://knative.dev/docs/eventing/).
+I work on [Knative Eventing](https://knative.dev/docs/eventing/) and I am interested in building event0driven serverless cloud-native applicaitons.
 
 You can find more about me at https://aslom.net/
 
